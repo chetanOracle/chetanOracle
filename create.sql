@@ -1,3 +1,4 @@
+--employees_demo create table
 CREATE TABLE employees_demo
     ( employee_id    NUMBER(6)
     , first_name     VARCHAR2(20)
